@@ -1,0 +1,22 @@
+.status_on {
+    width: 15px;
+    height: 15px;
+    background-color: green;
+    border-radius: 50%;
+}
+
+.status_off {
+    width: 15px;
+    height: 15px;
+    background-color: rgb(202, 2, 2);
+    border-radius: 50%;
+}
+.friend_list {
+    margin: 15px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 5px;
+    padding: 5px;
+    width: 180px;
+    list-style: none;
+}
